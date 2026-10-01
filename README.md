@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ranaw 👋
 
-<!--
-**ranaw2005-cloud/ranaw2005-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc (Hons) Cybersecurity student at **Aston University** (Birmingham, UK), looking for a placement year in cybersecurity, SOC analysis or IT security from 2027.
 
-Here are some ideas to get you started:
+### What I'm working on
+- 🔐 Building a home security lab with VirtualBox, Kali Linux and Ubuntu to practise safe, legal security testing
+- 🐍 Writing small Python security tools, starting with a TCP port scanner
+- 🎯 Working through TryHackMe learning paths (networking, Linux, web security)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm learning
+- Network security and traffic analysis (Nmap, Wireshark)
+- Linux system administration
+- Python and SQL
+
+### Studying
+Network Security · Cybersecurity Fundamentals · Linux · Databases · Programming Fundamentals · Computer Architecture
+
+### Get in touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/ranaw-hamad-700642317)
+- 📧 Ranaw2005@gmail.com
+
+*I only test systems I own or have permission to test.*
